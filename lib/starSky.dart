@@ -16,7 +16,6 @@ class _StarSkyState extends State<StarSky> with WidgetsBindingObserver {
 
   @override
   void initState() {
-    // TODO: implement initState
     WidgetsBinding.instance!.addObserver(this);
     super.initState();
     getxuehua();
