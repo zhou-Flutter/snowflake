@@ -41,7 +41,6 @@ class _StarSkyState extends State<StarSky> with WidgetsBindingObserver {
         setState(() {});
         break;
       case AppLifecycleState.inactive:
-        // TODO: Handle this case.
         break;
       case AppLifecycleState.paused:
         // 前台到后台
