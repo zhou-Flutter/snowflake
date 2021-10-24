@@ -1,6 +1,7 @@
 # 学习flutter记录
 
-实现下雪的动画
+实现下雪的动画 
+真机比gif流畅
 
 #### <p> [APK下载](https://raw.githubusercontent.com/zhou-Flutter/snowflake/master/assets/app-release.apk)</p>
 
